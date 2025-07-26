@@ -1,0 +1,21 @@
+*.csv
+*.xlsx
+*.RData
+.Rhistory
+.Rproj.user
+
+.Rproj.user
+.Rhistory 
+
+
+.RData
+.Ruserdata
+lab_results.csv
+data_cleaned.xlsx
+Nirajan Subedi.Rproj
+Combined_dataset.csv
+data_cleaned.xlsx
+lab_results.csv
+Combined_dataset.csv
+data_cleaned.xlsx
+lab_results.csv
